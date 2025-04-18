@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "kunde_id": 1,
+    "produkt_id": 1,
+    "anzahl": 1,
+    "gesamtpreis": 1299.99
+  },
+  {
+    "id": 2,
+    "kunde_id": 2,
+    "produkt_id": 2,
+    "anzahl": 2,
+    "gesamtpreis": 49.8
+  },
+  {
+    "id": 3,
+    "kunde_id": 1,
+    "produkt_id": 3,
+    "anzahl": 1,
+    "gesamtpreis": 49.99
+  },
+  {
+    "id": 4,
+    "kunde_id": 1,
+    "produkt_id": 2,
+    "anzahl": 12,
+    "gesamtpreis": 298.79999999999995
+  },
+  {
+    "id": 5,
+    "kunde_id": 1,
+    "produkt_id": 2,
+    "anzahl": 12,
+    "gesamtpreis": 298.79999999999995
+  },
+  {
+    "id": 6,
+    "kunde_id": 1,
+    "produkt_id": 3,
+    "anzahl": 12,
+    "gesamtpreis": 599.88
+  },{
+    "id": 9,
+    "kunde_id": 1,
+    "produkt_id": 3,
+    "anzahl": 12,
+    "gesamtpreis": 599.88
+  },
+  {
+    "id": 12,
+    "kunde_id": 1,
+    "produkt_id": 3,
+    "anzahl": 12,
+    "gesamtpreis": 599.88
+  },
+  {
+    "id": 18,
+    "kunde_id": 1,
+    "produkt_id": 3,
+    "anzahl": 12,
+    "gesamtpreis": 599.88
+  },
+  {
+    "id": 7,
+    "kunde_id": 3,
+    "produkt_id": 5,
+    "anzahl": 4,
+    "gesamtpreis": 1199.96
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop Pro 15",
+    "preis": 1399.99,
+    "bestand": 12
+  },
+  {
+    "id": 2,
+    "name": "USB-C Hub 8in1",
+    "preis": 49.99,
+    "bestand": 75
+  },
+  {
+    "id": 3,
+    "name": "Wireless Mouse",
+    "preis": 24.9,
+    "bestand": 150
+  },
+  {
+    "id": 4,
+    "name": "Mechanical Keyboard",
+    "preis": 89.0,
+    "bestand": 40
+  },
+  {
+    "id": 5,
+    "name": "27\" 4K Monitor",
+    "preis": 299.99,
+    "bestand": 21
+  },
+  {
+    "id": 6,
+    "name": "Webcam HD",
+    "preis": 59.9,
+    "bestand": 65
+  },
+  {
+    "id": 7,
+    "name": "Noise Cancelling Headphones",
+    "preis": 159.9,
+    "bestand": 20
+  },
+  {
+    "id": 8,
+    "name": "External SSD 1TB",
+    "preis": 129.99,
+    "bestand": 35
+  },
+  {
+    "id": 9,
+    "name": "Office Chair Ergonomic",
+    "preis": 219.0,
+    "bestand": 15
+  },
+  {
+    "id": 10,
+    "name": "Adjustable Standing Desk",
+    "preis": 499.0,
+    "bestand": 10
+  },
+  {
+    "id": 11,
+    "name": "Laser Printer",
+    "preis": 179.99,
+    "bestand": 18
+  },
+  {
+    "id": 12,
+    "name": "Printer Toner XL",
+    "preis": 39.99,
+    "bestand": 80
+  },
+  {
+    "id": 13,
+    "name": "Smartphone Stand",
+    "preis": 14.99,
+    "bestand": 120
+  },
+  {
+    "id": 14,
+    "name": "Desk Lamp LED",
+    "preis": 34.99,
+    "bestand": 50
+  },
+  {
+    "id": 15,
+    "name": "Conference Speakerphone",
+    "preis": 99.9,
+    "bestand": 22
+  },
+  {
+    "id": 16,
+    "name": "Desktop PC Workstation",
+    "preis": 1199.0,
+    "bestand": 8
+  },
+  {
+    "id": 17,
+    "name": "Wireless Charger",
+    "preis": 29.99,
+    "bestand": 60
+  },
+  {
+    "id": 18,
+    "name": "Bluetooth Speaker",
+    "preis": 45.0,
+    "bestand": 45
+  },
+  {
+    "id": 19,
+    "name": "Smartwatch Series 5",
+    "preis": 199.99,
+    "bestand": 30
+  },
+  {
+    "id": 20,
+    "name": "Power Bank 20000mAh",
+    "preis": 39.9,
+    "bestand": 100
+  },
+  {
+    "id": 21,
+    "name": "Ethernet Cable 10m",
+    "preis": 12.99,
+    "bestand": 200
+  },
+  {
+    "id": 22,
+    "name": "HDMI Cable 2m",
+    "preis": 9.99,
+    "bestand": 180
+  },
+  {
+    "id": 23,
+    "name": "Graphic Tablet",
+    "preis": 249.0,
+    "bestand": 14
+  },
+  {
+    "id": 24,
+    "name": "Document Scanner",
+    "preis": 129.9,
+    "bestand": 19
+  },
+  {
+    "id": 25,
+    "name": "Multiport Adapter",
+    "preis": 39.9,
+    "bestand": 90
+  }
+]
