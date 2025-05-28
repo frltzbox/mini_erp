@@ -49,6 +49,7 @@ mini_erp/
 
 ```bash
 python3 main.py
+python3 gui.py
 ```
 
 Voraussetzung: Python 3.8+
